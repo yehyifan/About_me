@@ -2,9 +2,7 @@
 
 I'm Eva Yeh, a Data Science postgraduate holder from Cardiff University. I'm a motivated and detail-oriented individual with hands-on experience in data analysis and predictive modeling.
 
----
-
-## Portfolio – Python Projects
+## Portfolio
 
 ### Data Visualisation
 - **[Spotify User Behaviour Visualisation](https://github.com/yehyifan/Spotify_User_Behaviour_Analysis_Dashboard)**    
@@ -19,7 +17,5 @@ I'm Eva Yeh, a Data Science postgraduate holder from Cardiff University. I'm a m
 
 - **[Oscar Best Actress Awards Web Scrapper](https://github.com/yehyifan/Oscar_Best_Actress_Awards_Web_Scraper)**  
   Scraped Oscar Best Actress nomination and win data from Wikipedia using Python and BeautifulSoup.
-
----
 
 Thanks for stopping by!

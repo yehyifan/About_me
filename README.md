@@ -1,6 +1,6 @@
 # About Me
 
-I'm Eva Yeh, a Data Science postgraduate holder from Cardiff University. I'm a motivated and detail-oriented individual with hands-on experience in data analysis and predictive modeling.
+I'm Eva Yeh, a Data Science and Analytics postgraduate holder from Cardiff University. I'm a proactive and detail-oriented individual with hands-on experience in data analysis and predictive modeling.
 
 ## Portfolio
 
